@@ -1,0 +1,8 @@
+install React vite:
+npm create vite@latest
+
+install Tailwind css:
+npm install tailwindcss @tailwindcss/vite
+
+install react icon, react tooltip framer motion:
+npm i react-icons react-tooltip framer-motion
